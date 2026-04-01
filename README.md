@@ -1,6 +1,6 @@
 # iLog
 ### Super simple time tracking for Mac
-###### Design and code by Ross
+##### Design and code by Ross
 
 In 2009 when I was a sophomore at Drexel University I had a friend who worked several part-time jobs. He found the task of adding up and logging his hours each week to be tedious and frustrating. He entered all his shifts into different calendars in iCal, but had to manually add up the hours each pay period. I was teaching myself Objective-C at the time and this seemed like a perfect challenge.
 
